@@ -10,4 +10,4 @@
 
 ## Using the LFW dataset
 
-![lfw_fake](assets/lfw_fake-9109162.png)
+![lfw_fake](assets/lfw_fake.png)
